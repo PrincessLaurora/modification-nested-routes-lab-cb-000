@@ -4,6 +4,7 @@ gem 'rails'
 gem 'sqlite3'
 gem 'sass-rails'
 gem 'uglifier'
+gem 'rails-controller-testing'
 gem 'jbuilder'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
